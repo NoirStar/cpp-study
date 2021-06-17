@@ -1,12 +1,11 @@
-![cpp](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/220px-ISO_C%2B%2B_Logo.svg.png "cpp")
+![cpp](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/220px-ISO_C%2B%2B_Logo.svg.png "cpp"){: width="100" height="100"}
 
 ## 홍정모의 따라하며 배우는 C++
 
 매일 강의 수강 후 실습 내용 및 실습 코드 업로드
 
----
 
-### 진행상황
+## 진행상황
 
 | 날짜    | 진도율 |
 | :---      | :--- |
